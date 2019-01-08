@@ -12,4 +12,6 @@ Antes de tudo, acredito que é importante entender realmente como funciona a int
 #### Artigos importantes antes de iniciar os conteúdos técnicos:
 - [O que é front e back end](https://www.programaria.org/o-que-e-front-end-e-back-end/) - Programaria;
 - [Assumindo o papel de protagonista em nossa aprendizagem](https://woliveiras.com.br/posts/assumindo-o-papel-de-protagonista-em-nossa-aprendizagem/) - William Oliveira;
+- [Conselhos que eu gostaria de ter ouvido quando mudei para tecnologia](https://medium.com/@carolcode/conselhos-que-eu-gostaria-de-ter-ouvido-quando-mudei-para-tecnologia-c75664da2568) - Por eu mesma;
+
 
