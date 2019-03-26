@@ -16,11 +16,6 @@ Antes de tudo, acredito que é importante entender realmente como funciona a int
 
 ##
 
-### Lógica, é lógico! 
-Lógica de programação pode parecer muito chato e desnecessário, mas a verdade é que quanto mais rápido você aprender, melhor. Programar é muito repetitivo e com o tempo ficamoos "viciados" nos códigos que trabalhamos, lógica ajuda a entender como tudo funciona, assim ficamos mais rápido e melhores em procurar soluções diferentes para os mesmos problemas.
-
-- [Curso gratuito] [Lógica de programação e algoritimos](https://www.youtube.com/watch?v=Ds1n6aHchRU&list=PLInBAd9OZCzxxk0VvMGrq7l-ZMu5lOSwC) - RB Tech;
-
 ##
 
 ### HTML & CSS
