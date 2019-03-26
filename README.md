@@ -36,6 +36,7 @@ Você já deve ter ouvido sobre repositórios, open source, git/github. Pense no
 - [Artigo] [Plano para estudar Git e GitHub enquanto aprende programação](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459) - Training Center;
 - [Video] [Git e GitHub para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4&t=344s) - Loiane Groner;
 - [Curso] [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - William Justen;
+- [Artigo] [Introdução ao terminal](https://woliveiras.com.br/posts/introdu%C3%A7%C3%A3o-ao-terminal/) - William Oliveira;
 
 
 
