@@ -24,10 +24,19 @@ A verdade é que prédio nenhum se sustenta sem boas bases, e por isso, para con
 - [Curso gratuito] [HTML 5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) - Curso em vídeo;
 - [Curso gratuito] [CSS 3](https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG) - Node Studio Treinamentos;
 - [Curso pago com valor acessível] [FrontEnd básico, do zero a uma página com HTML e CSS](https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/) - Fernanda Bernardo;
+- [Curso gratuito] [HTML & CSS](https://www.udemy.com/girls4tech/) - Ebanx;
 
 ##
 
-### GitHub :octocat: 
+### Git & GitHub :octocat: 
+Você já deve ter ouvido sobre repositórios, open source, git/github. Pense no GitHub como o seu portifólio de código e para você "interagir" com ele você usa o Git. Nos links abaixo você saberá mais sobre.
+
+- [Video] [O que é GitHub](https://www.youtube.com/watch?v=ZDo_f3ZibFA&t=263s) - Bruno Germano;
+- [Video] [Diferenças de Git, GitHub e GitLab](https://www.youtube.com/watch?v=_i9DUJcn-mU) - Alura;
+- [Artigo] [Plano para estudar Git e GitHub enquanto aprende programação](https://medium.com/trainingcenter/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459) - Training Center;
+- [Video] [Git e GitHub para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4&t=344s) - Loiane Groner;
+- [Curso] [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - William Justen;
+
 
 
 
