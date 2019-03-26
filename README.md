@@ -14,7 +14,6 @@ Antes de tudo, acredito que é importante entender realmente como funciona a int
 - [Conselhos que eu gostaria de ter ouvido quando mudei para tecnologia](https://medium.com/@carolcode/conselhos-que-eu-gostaria-de-ter-ouvido-quando-mudei-para-tecnologia-c75664da2568) - Por eu mesma;
 - [O que é e pra que serve o protocolo HTTP? Quando eu uso ele?](http://gabsferreira.com/pra-que-serve-o-protocolo-http-quando-eu-uso-ele/) - Gabs Ferreira;
 
-##
 
 ##
 
