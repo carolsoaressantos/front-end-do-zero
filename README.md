@@ -38,6 +38,13 @@ Você já deve ter ouvido sobre repositórios, open source, git/github. Pense no
 - [Curso] [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - William Justen;
 - [Artigo] [Introdução ao terminal](https://woliveiras.com.br/posts/introdu%C3%A7%C3%A3o-ao-terminal/) - William Oliveira;
 
+##
+
+### JavaScript 
+
+- [Artigo] [10 dicas para se tornar Ninja em Javascript](https://medium.com/womakerscode/10-dicas-para-se-tornar-ninja-em-javascript-31a963ad17a1) - Glaucia Lemos;
+
+
 
 
 
