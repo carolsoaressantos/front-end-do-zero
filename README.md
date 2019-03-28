@@ -43,7 +43,7 @@ Você já deve ter ouvido sobre repositórios, open source, git/github. Pense no
 ### JavaScript 
 
 - [Artigo] [10 dicas para se tornar Ninja em Javascript](https://medium.com/womakerscode/10-dicas-para-se-tornar-ninja-em-javascript-31a963ad17a1) - Glaucia Lemos;
-
+- [Curso] [Javascript](https://rocketseat.com.br/starter) - Rocketseat
 
 
 
