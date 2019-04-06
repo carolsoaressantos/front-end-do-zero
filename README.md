@@ -23,7 +23,7 @@ A verdade é que prédio nenhum se sustenta sem boas bases, e por isso, para con
 - [Artigo] [Linguagem de marcação x Linguagem de programação](http://lpsychomamba.blogspot.com/2013/03/ppsi-1-post-2.html);
 - [Curso gratuito] [HTML 5](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) - Curso em vídeo;
 - [Curso gratuito] [CSS 3](https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG) - Node Studio Treinamentos;
-- [Curso pago com valor acessível] [FrontEnd básico, do zero a uma página com HTML e CSS](https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/) - Fernanda Bernardo;
+- [Curso pago com valor acessível] [FrontEnd básico, do zero a uma página com HTML e CSS](https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/) - Fê Bernardo;
 - [Curso gratuito] [HTML & CSS](https://www.udemy.com/girls4tech/) - Ebanx;
 
 ##
