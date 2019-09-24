@@ -2,7 +2,7 @@
 :notebook: Um guia de estudos acessível para se tornar front end :computer:
 
 
-*Este é um guia em construção baseado na minha experiência em aprender desenvolvimento Front End sozinha e com o apoio do [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)*
+*Este é um guia em construção baseado na minha experiência em aprender desenvolvimento Front End sozinha e com o apoio do [Guia do desenvolvedor web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)*
 
 
 # Começando do começo :smile:
@@ -13,6 +13,15 @@ Antes de tudo, acredito que é importante entender realmente como funciona a int
 - [Assumindo o papel de protagonista em nossa aprendizagem](https://woliveiras.com.br/posts/assumindo-o-papel-de-protagonista-em-nossa-aprendizagem/) - William Oliveira;
 - [Conselhos que eu gostaria de ter ouvido quando mudei para tecnologia](https://medium.com/@carolcode/conselhos-que-eu-gostaria-de-ter-ouvido-quando-mudei-para-tecnologia-c75664da2568) - Por eu mesma;
 - [O que é e pra que serve o protocolo HTTP? Quando eu uso ele?](http://gabsferreira.com/pra-que-serve-o-protocolo-http-quando-eu-uso-ele/) - Gabs Ferreira;
+
+#### Videos importantes:
+- [Como estudar melhor](https://www.youtube.com/watch?v=Is6c9KSGCbk&list=WL&index=13&t=363s) - Alura;
+- [Produtividade para estudar](https://www.youtube.com/watch?v=UTHMKSxLHsI&list=WL&index=17&t=0s) - Alura;
+
+#### Bases de computação:
+- [Como funcionam navegadores web](https://www.youtube.com/watch?v=kDy62zaCHZE&list=WL&index=5&t=18s) - Alura;
+- [O que é esse tal de compilador?](https://www.youtube.com/watch?v=y1M9yOHGKBc&list=WL&index=33&t=0s) - Computação sem caô;
+
 
 
 ##
@@ -37,6 +46,7 @@ Você já deve ter ouvido sobre repositórios, open source, git/github. Pense no
 - [Video] [Git e GitHub para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4&t=344s) - Loiane Groner;
 - [Curso] [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - William Justen;
 - [Artigo] [Introdução ao terminal](https://woliveiras.com.br/posts/introdu%C3%A7%C3%A3o-ao-terminal/) - William Oliveira;
+- [Video] [Como usar Git e Github na prática](https://www.youtube.com/watch?v=2alg7MQ6_sI&list=WL&index=11&t=0s) - Rocketseat;
 
 ##
 
@@ -44,6 +54,7 @@ Você já deve ter ouvido sobre repositórios, open source, git/github. Pense no
 
 - [Artigo] [10 dicas para se tornar Ninja em Javascript](https://medium.com/womakerscode/10-dicas-para-se-tornar-ninja-em-javascript-31a963ad17a1) - Glaucia Lemos;
 - [Curso] [Javascript](https://rocketseat.com.br/starter) - Rocketseat;
+- [Video] [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As&list=WL&index=7&t=0s) - Rocketseat;
 
 
 
